@@ -32,5 +32,11 @@
             android:text="@string/article"
             android:textSize="12sp" />
 
+        <Button
+            android:id="@+id/cons"
+            android:text="Constraint Layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
     </LinearLayout>
 </ScrollView>
